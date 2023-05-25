@@ -10,7 +10,7 @@ document.querySelector('#contact-form').addEventListener("submit", function (eve
 
     var msg = `Halo...%0APerkenalkan%20Nama%20Saya%20${nama}%C2%A0%20dari%20${perusahaan}.%0A${pesan}.%0A${email}.`;
 
-    location.href = "https://api.whatsapp.com/send?phone=6282210880072&text=" + msg;
+    location.href = "https://api.whatsapp.com/send?phone=6289523006671&text=" + msg;
 });
 
 const Portfolio = document.getElementById('portfolioGrid');
