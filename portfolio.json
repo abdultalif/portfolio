@@ -1,0 +1,122 @@
+{
+    "bwamoonton": {
+        "images": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png"
+        ],
+        "label": "Streaming Website",
+        "title": "Website Streaming Menggunakan Laravel 9 & React",
+        "desc": "Mengikuti kelas online Full-Stack Laravel React JS: Build Streaming Website Like Netflix dari Buildwithangga.com",
+        "tech": [
+            "Larevel",
+            "React"
+        ],
+        "link": "https://buildwithangga.com/kelas/full-stack-laravel-react-js-build-streaming-website-like-netflix"
+    },
+    "bwastore": {
+        "images": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png"
+        ],
+        "label": "E-Commerce Website",
+        "title": "Website E-Commerce Menggunakan Laravel 8",
+        "desc": "Mengikuti kelas online Full-Stack Web Developer: Toko Online dari Buildwithangga.com",
+        "tech": [
+            "Larevel"
+        ],
+        "link": "https://buildwithangga.com/kelas/full-stack-web-developer-toko-online"
+    },
+    "sarbisertifikasi": {
+        "images": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png"
+        ],
+        "label": "Company Profile",
+        "title": "Website PT Sarbi International Certification",
+        "desc": "Membuat website profil perusahaan dengan menggunakan CMS Wordpress. Dan tentunya yang paling penting adalah plugin Yoast Seo yang dapat membantu website dalam mengembangkan SEO (Search Engine Optimization)",
+        "tech": [
+            "Wordpress",
+            "Yoast SEO"
+        ],
+        "link": "https://sarbisertifikasi.com"
+    },
+    "vlegalsic": {
+        "images": [
+            "1.png",
+            "2.png"
+        ],
+        "label": "Web Application",
+        "title": "Website Penerbitan Dokumen V-Legal PT SIC",
+        "desc": "Membuat Aplikasi berbasis web untuk layanan penerbitan dokumen V-Legal yang dapat terhubung langsung dengan API Service milik Kementrian Lingkungan Hidup dan Kehutanan.",
+        "tech": [
+            "CodeIgniter 4"
+        ],
+        "link": "https://vlegal.sarbisertifikasi.com"
+    },
+    "portalsic": {
+        "images": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png"
+        ],
+        "label": "Web Application",
+        "title": "Website Portal PT SIC",
+        "desc": "Membuat digitalisasi untuk arsip dokumen internal PT SIC dan aplikasi daftar hadir pada meeting online yang terdapat tanda tangan secara online",
+        "tech": [
+            "Laravel"
+        ],
+        "link": "https://portal.sarbisertifikasi.com"
+    },
+    "adminwp": {
+        "images": [
+            "1.png",
+            "2.png"
+        ],
+        "label": "Web Application",
+        "title": "Website Back End PT SIC",
+        "desc": "Website ini digunakan untuk back-end dari data klien, pengumuman dan sertifikat klien PT SIC",
+        "tech": [
+            "CodeIgniter 4"
+        ],
+        "link": "https://sarbisertifikasi.com/layanan/vlk/pengumuman-vlk/"
+    },
+    "ycalruhamaa": {
+        "images": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png",
+            "5.png",
+            "6.png"
+        ],
+        "label": "Company Profile",
+        "title": "Website Yatim Center Al-Ruhamaa Bogor",
+        "desc": "Website ini saya buat sebagai Project Tugas Akhir dari Kuliah. Website CMS ini saya buat bersama teman saya Asyil Alfin Halani Bahar menggunakan CodeIgniter 3",
+        "tech": [
+            "CodeIgniter 3"
+        ],
+        "link": "https://yatimcenter-alruhamaa.org/"
+    },
+    "cbt": {
+        "images": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png"
+        ],
+        "label": "Web Application",
+        "title": "Aplikasi Ujian Oline dengan CodeIgniter 3",
+        "desc": "Aplikasi ini adalah hasil remake modifikasi dari repository github milik akhwan90. ",
+        "tech": [
+            "CodeIgniter 3"
+        ],
+        "link": "https://www.alamkoding.com/2019/09/free-source-code-aplikasi-ujian-online-codeigniter-3.html"
+    }
+}
