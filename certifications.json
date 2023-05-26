@@ -1,0 +1,132 @@
+{
+    "aplikasi-back-end-untuk-pemula": {
+        "images": [
+            "1.png",
+            "2.png"
+        ],
+        "label": "Sertifikat Dicoding",
+        "title": "Belajar Membuat Aplikasi Back-End Untuk Pemula",
+        "desc": "",
+        "tech": [
+            "Node.js",
+            "Hapi",
+            "REST API"
+        ],
+        "link": "https://www.dicoding.com/certificates/07Z6VR2R2XQR"
+    },
+    "belajar-dasar-structured-query-language": {
+        "images": [
+            "1.png"
+        ],
+        "label": "Sertifikat Dicoding",
+        "title": "Belajar Dasar Structured Query Language (SQL)",
+        "desc": "",
+        "tech": [
+            "SQL"
+        ],
+        "link": "https://www.dicoding.com/certificates/N9ZO65V7YXG5"
+    },
+    "JAVASCRIP-DASAR": {
+        "images": [
+            "1.png"
+        ],
+        "label": "Sertifikat Dicoding",
+        "title": "Belajar Dasar Pemrograman JavaScript",
+        "desc": "",
+        "tech": [
+            "Node.js",
+            "OOP",
+            "JavaScript"
+        ],
+        "link": "https://www.dicoding.com/certificates/0LZ093LE0Z65"
+    },
+    "GIT-&-GITHUB": {
+        "images": [
+            "1.png",
+            "2.png",
+            "3.png"
+        ],
+        "label": "Sertifikat Dicoding",
+        "title": "Belajar Dasar Git dengan GitHub",
+        "desc": "",
+        "tech": [
+            "GIT",
+            "GITHUB"
+        ],
+        "link": "https://www.dicoding.com/certificates/JMZV99L3RPN9"
+    },
+    "CLOUD-AWS": {
+        "images": [
+            "1.png",
+            "2.png",
+            "3.png"
+        ],
+        "label": "Sertifikat Dicoding",
+        "title": "Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)",
+        "desc": "",
+        "tech": [
+            "Amanazon Web Service"
+        ],
+        "link": "https://www.dicoding.com/certificates/QLZ9Q1N1EZ5D"
+    },
+    "Meniti-Karier-sebagai-Software-Developer": {
+        "images": [
+            "1.png",
+            "2.png"
+        ],
+        "label": "Sertifikat Dicoding",
+        "title": "Meniti Karier Sebagai Software Developer",
+        "desc": "",
+        "tech": [
+            ""
+        ],
+        "link": "https://www.dicoding.com/certificates/07Z6V8E5WXQR"
+    },
+    "Dasar-Pemrograman-WEB": {
+        "images": [
+            "1.png",
+            "2.png"
+        ],
+        "label": "Sertifikat Dicoding",
+        "title": "Belajar Dasar Pemrograman WEB",
+        "desc": "",
+        "tech": [
+            "HTML",
+            "CSS",
+            "CSS Flexbox"
+        ],
+        "link": "https://www.dicoding.com/certificates/NVP7OO9NWPR0"
+    },
+    "Memulai-Dasar-Pemrograman-untuk-Menjadi-Pengembang-Software": {
+        "images": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png"
+        ],
+        "label": "Sertifikat Dicoding",
+        "title": "Memulai Dasar Pemrograman untuk Menjadi Pengembang Software",
+        "desc": "",
+        "tech": [
+            ""
+        ],
+        "link": "https://www.dicoding.com/certificates/07Z6V8E5WXQR"
+    },
+    "bnsp": {
+        "images": [
+            "1.jpeg",
+            "2.jpeg"
+        ],
+        "label": "Sertifikat BNSP",
+        "title": "Junior Web Programmer",
+        "desc": "",
+        "tech": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "PHP",
+            "MySQL"
+        ],
+        "link": "#"
+    }
+}

@@ -12510,6 +12510,64 @@ html {
   opacity: 1;
 }
 
+
+.certification .certification-item {
+  cursor: pointer;
+  position: relative;
+  display: block;
+  max-width: 25rem;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.certification .certification-item .certification-item-caption {
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition: all 0.2s ease-in-out;
+  opacity: 0;
+  background-color: rgba(26, 188, 156, 0.9);
+}
+
+.certification .certification-item .certification-item-caption:hover {
+  opacity: 1;
+}
+
+.certification .certification-item .certification-item-caption .certification-item-caption-content {
+  font-size: 1.5rem;
+}
+
+.certification-modal .btn-close {
+  color: #1abc9c;
+  font-size: 2rem;
+  padding: 1rem;
+}
+
+.certification-modal .certification-modal-title {
+  font-size: 2.25rem;
+  line-height: 2rem;
+}
+
+@media (min-width: 992px) {
+  .certification-modal .certification-modal-title {
+    font-size: 3rem;
+    line-height: 2.5rem;
+  }
+}
+
+#certificationModal .btn-close {
+  position: absolute;
+  top: -15px;
+  right: -15px;
+  z-index: 1;
+  font-size: 1rem;
+  padding: 0.7rem;
+  border-radius: 50%;
+  background-color: #dc3545;
+  opacity: 1;
+}
+
+
 /* Bubbles */
 .bubbles {
   position: absolute;
