@@ -6,7 +6,7 @@
         ],
         "label": "Web Application",
         "title": "Website Penerbitan Dokumen V-Legal PT SIC",
-        "desc": "Membuat Aplikasi berbasis web bersama dengan tim untuk layanan penerbitan dokumen V-Legal yang dapat terhubung langsung dengan API Service milik Kementrian Lingkungan Hidup dan Kehutanan.",
+        "desc": "Membuat Aplikasi berbasis web bersama dengan tim untuk layanan penerbitan dokumen V-Legal.",
         "tech": [
             "CodeIgniter 4"
         ],

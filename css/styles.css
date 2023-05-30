@@ -4491,7 +4491,7 @@ fieldset:disabled .btn {
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
-  color: #1abc9c;
+  color: #31d2f2;
   text-decoration: none;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
 }
@@ -4504,7 +4504,8 @@ fieldset:disabled .btn {
 
 .nav-link:hover,
 .nav-link:focus {
-  color: #15967d;
+  color: #25cff2;
+  ;
 }
 
 .nav-link.disabled {
@@ -12332,7 +12333,7 @@ html {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #1abc9c;
+  color: #31d2f2;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:active,
@@ -12341,7 +12342,7 @@ html {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #1abc9c;
+  color: #31d2f2;
 }
 
 #mainNav .navbar-toggler {
@@ -12367,14 +12368,15 @@ html {
 
   #mainNav .navbar-nav>li.nav-item>a.nav-link.active {
     color: #fff;
-    background: #1abc9c;
+    background: #31d2f2;
+    ;
   }
 
   #mainNav .navbar-nav>li.nav-item>a.nav-link.active:active,
   #mainNav .navbar-nav>li.nav-item>a.nav-link.active:focus,
   #mainNav .navbar-nav>li.nav-item>a.nav-link.active:hover {
     color: #fff;
-    background: #1abc9c;
+    background: #31d2f2;
   }
 
   #mainNav.navbar-shrink {
@@ -12457,7 +12459,7 @@ html {
   left: 0;
   transition: all 0.2s ease-in-out;
   opacity: 0;
-  background-color: rgba(26, 188, 156, 0.9);
+  background-color: rgba(13, 202, 240);
 }
 
 .portfolio .portfolio-item .portfolio-item-caption:hover {
@@ -12469,7 +12471,7 @@ html {
 }
 
 .portfolio-modal .btn-close {
-  color: #1abc9c;
+  color: #31d2f2;
   font-size: 2rem;
   padding: 1rem;
 }
@@ -12526,7 +12528,7 @@ html {
   left: 0;
   transition: all 0.2s ease-in-out;
   opacity: 0;
-  background-color: rgba(26, 188, 156, 0.9);
+  background-color: rgba(13, 202, 240);
 }
 
 .certification .certification-item .certification-item-caption:hover {
@@ -12538,7 +12540,7 @@ html {
 }
 
 .certification-modal .btn-close {
-  color: #1abc9c;
+  color: #31d2f2;
   font-size: 2rem;
   padding: 1rem;
 }
