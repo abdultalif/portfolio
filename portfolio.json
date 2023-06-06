@@ -34,7 +34,7 @@
         ],
         "label": "Company Profile",
         "title": "Website PT Sarbi International Certification",
-        "desc": "Membuat website profil perusahaan dengan menggunakan CMS Wordpress. Dan tentunya yang paling penting adalah plugin Yoast Seo yang dapat membantu website dalam mengembangkan SEO (Search Engine Optimization)",
+        "desc": "Membuat menu formulir permohonan sertifikasi dan beberapa menu lainnya di company profile perusahaan yang sudah jadi. menggunakan CMS Wordpress, dan tentunya yang paling penting adalah plugin Yoast Seo yang dapat membantu website dalam mengembangkan SEO (Search Engine Optimization)",
         "tech": [
             "Wordpress",
             "Yoast SEO"

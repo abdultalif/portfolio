@@ -1,4 +1,21 @@
 {
+    "pkl": {
+        "images": [
+            "1.png"
+        ],
+        "label": "Sertifikat PRAKERIN",
+        "title": "PT Sarbi International Certification",
+        "desc": "",
+        "tech": [
+            "Laravel",
+            "CodeIgniter",
+            "WordPress",
+            "PHP",
+            "MySQL",
+            "JavaScript"
+        ],
+        "link": "https://drive.google.com/file/d/1gYOPfvsR_nEnXQ0xxOxnVU95X5NmRP6z/view"
+    },
     "aplikasi-back-end-untuk-pemula": {
         "images": [
             "1.png",
