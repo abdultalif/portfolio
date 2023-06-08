@@ -57,6 +57,21 @@
         ],
         "link": "https://github.com/abdultalif/ka"
     },
+    "spp": {
+        "images": [
+            "1.png",
+            "2.png",
+            "3.png"
+        ],
+        "label": "Web Application",
+        "title": "Aplikasi Pembayaran SPP",
+        "desc": "Aplikasi Ini Adalah Implementasi dari soal UJIKOM Paket 1 Pada Jurusan Rekayasa Perangkat Lunak",
+        "tech": [
+            "PHP",
+            "MySQL"
+        ],
+        "link": "#"
+    },
     "bookshelf": {
         "images": [
             "1.png",

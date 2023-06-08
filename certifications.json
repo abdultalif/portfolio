@@ -5,7 +5,7 @@
         ],
         "label": "Sertifikat PRAKERIN",
         "title": "PT Sarbi International Certification",
-        "desc": "",
+        "desc": "Sertifikat ini saya dapat ketika selesai mengikuti magang di PT Sarbi International Certification, disana saya ditugas kan membuat website arsip untuk perusahaan dan membuat aplikasi penerbitan dokumen v-legal, serta menambah beberapa menu pada company profile perusahaan",
         "tech": [
             "Laravel",
             "CodeIgniter",
@@ -45,7 +45,9 @@
     },
     "JAVASCRIP-DASAR": {
         "images": [
-            "1.png"
+            "1.png",
+            "2.png",
+            "3.png"
         ],
         "label": "Sertifikat Dicoding",
         "title": "Belajar Dasar Pemrograman JavaScript",
@@ -66,6 +68,19 @@
         "label": "Sertifikat Dicoding",
         "title": "Belajar Dasar Git dengan GitHub",
         "desc": "",
+        "tech": [
+            "GIT",
+            "GITHUB"
+        ],
+        "link": "https://www.dicoding.com/certificates/JMZV99L3RPN9"
+    },
+    "ilmunesia": {
+        "images": [
+            "1.jpeg"
+        ],
+        "label": "Sertifikat Magang",
+        "title": "ILMUNESIA",
+        "desc": "Sertifikat ini saya dapat ketika saya melaksanakan magang di sebuah instansi bernama ilmunesia",
         "tech": [
             "GIT",
             "GITHUB"
