@@ -41,6 +41,25 @@
         ],
         "link": "https://sarbisertifikasi.com"
     },
+    "bsi": {
+        "images": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png",
+            "5.png"
+        ],
+        "label": "Company Profile",
+        "title": "Website Bina Sarana Informatika",
+        "desc": "Membuat Company Profile Universitas Bina Sarana Informatika Menggunakan Framework Bootstrap 4 pada matakuliah EPTIK",
+        "tech": [
+            "HTML",
+            "CSS",
+            "Java Script",
+            "Bootstrap"
+        ],
+        "link": "https://eptik85.netlify.app/"
+    },
     "pos": {
         "images": [
             "1.png",
