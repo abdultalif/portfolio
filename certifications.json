@@ -114,6 +114,20 @@
         ],
         "link": "https://www.dicoding.com/certificates/07Z6V8E5WXQR"
     },
+    "ujikom": {
+        "images": [
+            "1.jpeg",
+            "2.jpeg"
+        ],
+        "label": "Sertifikat Uji Kompetensi",
+        "title": "UJIKOM RPL",
+        "desc": "",
+        "tech": [
+            "PHP",
+            "MySQL"
+        ],
+        "link": "#"
+    },
     "Dasar-Pemrograman-WEB": {
         "images": [
             "1.png",
