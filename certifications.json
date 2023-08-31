@@ -187,5 +187,18 @@
             "MySQL"
         ],
         "link": "#"
+    },
+    "bnsp-programmer": {
+        "images": [
+            "1.jpeg",
+            "2.jpeg"
+        ],
+        "label": "Sertifikat BNSP",
+        "title": "Programmer",
+        "desc": "",
+        "tech": [
+            "CodeIgniter"
+        ],
+        "link": "#"
     }
 }
