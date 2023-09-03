@@ -31,6 +31,18 @@
         ],
         "link": "https://www.dicoding.com/certificates/07Z6VR2R2XQR"
     },
+    "js-async": {
+        "images": [
+            "1.jpg"
+        ],
+        "label": "Sertifikat CodePolitan",
+        "title": "Belajar Javascript Asynchronous",
+        "desc": "",
+        "tech": [
+            "JavaScript"
+        ],
+        "link": "https://codepolitan.com/c/49YQQ1P/"
+    },
     "belajar-dasar-structured-query-language": {
         "images": [
             "1.png"
