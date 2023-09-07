@@ -55,6 +55,19 @@
         ],
         "link": "https://www.dicoding.com/certificates/N9ZO65V7YXG5"
     },
+    "NodeJS": {
+        "images": [
+            "1.png"
+        ],
+        "label": "Sertifikat Programmer Zaman Now",
+        "title": "Belajar NodeJS Untuk Pemula Sampai Mahir",
+        "desc": "",
+        "tech": [
+            "Node.js",
+            "ExpressJS"
+        ],
+        "link": "https://www.dicoding.com/certificates/0LZ093LE0Z65"
+    },
     "JAVASCRIP-DASAR": {
         "images": [
             "1.png",
@@ -112,6 +125,18 @@
             "Amanazon Web Service"
         ],
         "link": "https://www.dicoding.com/certificates/QLZ9Q1N1EZ5D"
+    },
+    "jquery": {
+        "images": [
+            "1.png"
+        ],
+        "label": "Sertifikat CodePolitan",
+        "title": "JQuery dasar",
+        "desc": "",
+        "tech": [
+            "JQuery"
+        ],
+        "link": "https://codepolitan.com/c/QT18S4F/"
     },
     "Meniti-Karier-sebagai-Software-Developer": {
         "images": [
