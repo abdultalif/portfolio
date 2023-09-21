@@ -16,6 +16,23 @@
         ],
         "link": "https://drive.google.com/file/d/1gYOPfvsR_nEnXQ0xxOxnVU95X5NmRP6z/view"
     },
+    "toelf": {
+        "images": [
+            "1.png"
+        ],
+        "label": "Sertifikat Toelf",
+        "title": "Sertifikat Toelf Pratic Test",
+        "desc": "",
+        "tech": [
+            "Laravel",
+            "CodeIgniter",
+            "WordPress",
+            "PHP",
+            "MySQL",
+            "JavaScript"
+        ],
+        "link": "https://drive.google.com/file/d/1gYOPfvsR_nEnXQ0xxOxnVU95X5NmRP6z/view"
+    },
     "aplikasi-back-end-untuk-pemula": {
         "images": [
             "1.png",
@@ -84,6 +101,20 @@
         ],
         "link": "https://www.dicoding.com/certificates/0LZ093LE0Z65"
     },
+    "SE": {
+        "images": [
+            "1.png"
+        ],
+        "label": "Sertifikat Revou Academy",
+        "title": "Belajar Dasar Pemrograman JavaScript",
+        "desc": "",
+        "tech": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "link": ""
+    },
     "GIT-&-GITHUB": {
         "images": [
             "1.png",
@@ -98,6 +129,19 @@
             "GITHUB"
         ],
         "link": "https://www.dicoding.com/certificates/JMZV99L3RPN9"
+    },
+    "javascript": {
+        "images": [
+            "1.jpeg"
+        ],
+        "label": "Sertifikat Programmer Zaman Now",
+        "title": "Belajar Javascript Untuk Pemula Sampai Mahir",
+        "desc": "",
+        "tech": [
+            "JavaScript",
+            "AJAX"
+        ],
+        "link": ""
     },
     "ilmunesia": {
         "images": [
